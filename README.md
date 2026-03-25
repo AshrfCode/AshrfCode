@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hi there!<br>I'm Ashrf Asadi, a passionate software engineering student with a love for building, learning, and solving real-world problems through code. Whether it's developing full-stack applications, exploring system-level programming, or experimenting with creative tech projects, I enjoy turning ideas into working solutions.
+Hi there!<br>I'm Ashrf Asadi, a passionate 3rd year software engineering student with a love for building, learning, and solving real-world problems through code. Whether it's developing full-stack applications, exploring system-level programming, or experimenting with creative tech projects, I enjoy turning ideas into working solutions.
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://ashrfasadi.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ashrf_Asadi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrfasadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrfcode@gmail.com) 
 
 # 💻 Tech Stack:
@@ -22,7 +23,6 @@ Hi there!<br>I'm Ashrf Asadi, a passionate software engineering student with a l
 [![](https://visitcount.itsvg.in/api?id=AshrfCode&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/http://paypal.me/ashrfasadi) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ashrfasadi) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
