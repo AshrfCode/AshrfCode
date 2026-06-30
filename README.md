@@ -15,6 +15,19 @@ I enjoy turning ideas into working solutions
 
 ---
 
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/AshrfCode/Strawberrfy-AI-IOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshrfCode&repo=strawberrfy-iot&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/AshrfCode/Socratic-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshrfCode&repo=Bistro&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
+
+---
+
 ### 🚀 About Me
 I'm a 3rd-year software engineering student passionate about building real-world solutions through code. I thrive at the intersection of logic and creativity, turning complex problems into working, elegant applications.
 
